@@ -24,6 +24,7 @@ jobs:
             --verbose
             --no-progress
             --accept 200,201,204,206,301,302,307,308
+            --exclude-mail
             --timeout 20
             --max-retries 2
             "**/*.md"
