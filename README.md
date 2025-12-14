@@ -1,27 +1,44 @@
+# Luis Perrone
+
 <!-- RAINBOW LINE TOP -->
 
-<img src="assets/line-neon.gif" width="100%">
+<img src="assets/line-neon.gif" width="100%" alt="neon decorative line">
 
 <!-- GIF HEADER -->
 
-<img src="assets/banner-header.gif" width="100%">
+<img src="assets/banner-header.gif" width="100%" alt="banner header">
 
 <!--Me DESCRIPCION -->
 
-## Luis Perrone
+## About
 
-Solutions Specialist (3PL/Logistics) | Automations, Reporting, Full-stack projects (React, Node.js, Python) and now making apps with V0 and Cursor.  
+Solutions Specialist (3PL/Logistics) | Automations, Reporting, and
+Full-stack projects (React, Node.js, Python). Now building apps with V0
+and Cursor.  
 Buenos Aires (UTC-3) · Remote
 
-- 📚 Currently working at [Shiphero](https://github.com/Shiphero)
+- 📚 Currently working at
+  [Shiphero](https://github.com/Shiphero)
 
 <h3 align="left">Companies</h3>
 <p align="left">
   <a href="https://www.linkedin.com/company/shiphero/" target="_blank" rel="noreferrer">
-    <img align="center" src="assets/linked-in-alt.svg" alt="ShipHero on LinkedIn" height="30" width="40" />
+    <img
+      align="center"
+      src="assets/linked-in-alt.svg"
+      alt="ShipHero on LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
   <a href="https://www.linkedin.com/company/lvklogistics/" target="_blank" rel="noreferrer">
-    <img align="center" src="assets/linked-in-alt.svg" alt="LVK Logistics on LinkedIn" height="30" width="40" />
+    <img
+      align="center"
+      src="assets/linked-in-alt.svg"
+      alt="LVK Logistics on LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
@@ -29,7 +46,11 @@ Buenos Aires (UTC-3) · Remote
 
     <!-- CV -->
     <a href="assets/Luis-Perrone-Resume.pdf" target="_blank" rel="noreferrer">
-    <img src="assets/Resume.png" width="600" alt="Resume preview">
+    <img
+      src="assets/Resume.png"
+      width="600"
+      alt="Resume preview"
+    >
   </a>
 
 <!-- CONTACT -->
@@ -42,7 +63,44 @@ Buenos Aires (UTC-3) · Remote
 
 <!-- LENGUAGES AND TOOLS -->
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
 ### Portfolio status
 
@@ -51,15 +109,15 @@ Repos will be published as individual, recruiter-friendly case studies with CI +
 
 <!-- STATS Y LENGUAGES USED -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=LuisPerroneDev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerroneDev&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=LuisPerroneDev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub contribution stats for LuisPerroneDev"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerroneDev&layout=compact&theme=gotham&langs_count=8" alt="Top languages used by LuisPerroneDev"/>
 </div>
 
 <!-- GIF FOOTER -->
-<img src="assets/banner-footer.gif" width="100%">
+<img src="assets/banner-footer.gif" width="100%" alt="banner footer">
 
 <!-- RAINBOW LINE BOT -->
-<img src="assets/line-neon.gif" width="100%">
+<img src="assets/line-neon.gif" width="100%" alt="neon decorative line">
 
 ---
 
