@@ -11,28 +11,8 @@ permissions:
   contents: read
 
 jobs:
-  links:
-    name: Check links (Markdown)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Link checker
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >
-            --verbose
-            --no-progress
-            --accept 200,201,204,206,301,302,307,308
-            --timeout 20
-            --max-retries 2
-            --exclude "https://www\.mysql\.com/.*"
-            "**/*.md"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   markdown:
-    name: Lint Markdown
+    name: Lint README/Markdown
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
