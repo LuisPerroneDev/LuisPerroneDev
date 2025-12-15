@@ -193,7 +193,7 @@ studies with CI + demos.
 <div style="display:grid;align-items:center;justify-content:center">
   <img
     style="height:100%;width:49%;max-width: 100%"
-    src="https://github-readme-stats.vercel.app/api?username=LuisPerroneDev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=LuisPerroneDev&theme=gotham&show_icons=true"
     alt="GitHub contribution stats for LuisPerroneDev"
   />
   <img
