@@ -183,7 +183,7 @@ Buenos Aires (UTC-3) · Remote
 
 ### Portfolio status
 
-**Flag Dictionary Project** (Live demo): https://luisperronedev.github.io/Flag-Dictionary-Project/
+**Flag Dictionary Project** (Live demo): <https://luisperronedev.github.io/Flag-Dictionary-Project/>
 <a href="https://github.com/LuisPerroneDev/Flag-Dictionary-Project">
 <img src="https://img.shields.io/badge/Repo-Flag%20Dictionary-181717?logo=github" alt="Repo: Flag Dictionary Project" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
