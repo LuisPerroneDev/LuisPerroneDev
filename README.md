@@ -184,10 +184,12 @@ Buenos Aires (UTC-3) · Remote
 
 ### Portfolio status
 
-I’m currently polishing and documenting my projects (React, Node.js,
-Python).  
-Repos will be published as individual, recruiter-friendly case
-studies with CI + demos.
+<a href="https://github.com/LuisPerroneDev/Flag-Dictionary-Project">
+  <img src="https://img.shields.io/badge/Repo-Flag%20Dictionary-181717?logo=github" alt="Repo: Flag Dictionary Project" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
+</a>
 
 <!-- STATS Y LENGUAGES USED -->
 <div style="display:grid;align-items:center;justify-content:center">
@@ -213,4 +215,4 @@ studies with CI + demos.
 
 [Luis Perrone](https://github.com/LuisPerroneDev)
 
-Last updated: 2025-12-14
+Last updated: 2025-12-15
